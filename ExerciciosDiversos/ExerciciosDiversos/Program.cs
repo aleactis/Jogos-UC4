@@ -10,7 +10,7 @@ namespace ExerciciosDiversos
     {
         static void Main(string[] args)
         {
-            /// 1 - Inverter números em uma sequência
+            // 1 - Inverter números em uma sequência
             //InverteNumero();
 
             // 2 -Mostrar os números perfeitos dentro de um intervalo
